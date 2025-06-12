@@ -1,0 +1,109 @@
+{
+    "c2array": true,
+    "size": [
+        9,
+        3,
+        1
+    ],
+    "data": [
+        [
+            [
+                "*Beep* *Beep* *Beep* "
+            ],
+            [
+                "*Pager*"
+            ],
+            [
+                30
+            ]
+        ],
+        [
+            [
+                "Not bad... Not bad at all"
+            ],
+            [
+                "The Boss"
+            ],
+            [
+                10
+            ]
+        ],
+        [
+            [
+                "Your next job is interesting"
+            ],
+            [
+                "The Boss"
+            ],
+            [
+                10
+            ]
+        ],
+        [
+            [
+                "Nobody else wants to go, but im sure youre desperate enough to take any job"
+            ],
+            [
+                "The Boss"
+            ],
+            [
+                10
+            ]
+        ],
+        [
+            [
+                "Its in backwoods of new jearsey, youll have to drive there"
+            ],
+            [
+                "The Boss"
+            ],
+            [
+                10
+            ]
+        ],
+        [
+            [
+                "The bank just bought the land there and found an old wood cabin"
+            ],
+            [
+                "The Boss"
+            ],
+            [
+                10
+            ]
+        ],
+        [
+            [
+                "The bank wants to repurpose it as a hotel of some sort"
+            ],
+            [
+                "The Boss"
+            ],
+            [
+                10
+            ]
+        ],
+        [
+            [
+                "Go over there and scan a floor map"
+            ],
+            [
+                "The Boss"
+            ],
+            [
+                10
+            ]
+        ],
+        [
+            [
+                "Toodle hah"
+            ],
+            [
+                "The Boss"
+            ],
+            [
+                10
+            ]
+        ]
+    ]
+}

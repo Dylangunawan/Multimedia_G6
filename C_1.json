@@ -1,0 +1,87 @@
+{
+    "c2array": true,
+    "size": [
+        7,
+        3,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Rent is due again..."
+            ],
+            [
+                "You"
+            ],
+            [
+                20
+            ]
+        ],
+        [
+            [
+                "I cant get a decent job"
+            ],
+            [
+                "You"
+            ],
+            [
+                20
+            ]
+        ],
+        [
+            [
+                "All of them aren't enough... except for this one"
+            ],
+            [
+                "You"
+            ],
+            [
+                20
+            ]
+        ],
+        [
+            [
+                "A bit sketchy"
+            ],
+            [
+                "You"
+            ],
+            [
+                20
+            ]
+        ],
+        [
+            [
+                "I HAVE NO OTHER CHOICE"
+            ],
+            [
+                "You"
+            ],
+            [
+                40
+            ]
+        ],
+        [
+            [
+                "*Beeping*"
+            ],
+            [
+                "**Phone**"
+            ],
+            [
+                20
+            ]
+        ],
+        [
+            [
+                "Hello, is this position still available???"
+            ],
+            [
+                "You"
+            ],
+            [
+                20
+            ]
+        ]
+    ]
+}
